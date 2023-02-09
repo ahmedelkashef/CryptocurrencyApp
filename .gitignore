@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+build/
+local.properties
+captures/
+.iml/
+.iml
+*.iml
+ajcore*.txt
+app/ikki/debug/output.json
+.DS_Store
+detekt/
+*.aar
